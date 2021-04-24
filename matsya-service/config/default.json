@@ -1,0 +1,11 @@
+{
+  "database": {
+    "type": "mongodb",
+    "host": "localhost",
+    "port": "27017",
+    "database": "matsya",
+    "synchronize": true,
+    "logging": false,
+    "useUnifiedTopology": true
+  }
+}
